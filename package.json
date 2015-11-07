@@ -1,0 +1,15 @@
+{
+  "name": "demo-package",
+  "version": "1.0.0",
+  "description": "Package for geekbrains",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CLTanuki",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-nunjucks-render": "^1.0.0",
+    "gulp-sass": "^2.1.0"
+  }
+}
